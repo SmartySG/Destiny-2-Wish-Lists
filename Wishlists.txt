@@ -2,4 +2,9 @@ title:Test
 
 // The Immortal - Test 1 (god-pvp)
 //notes: Test 2 tags:god-pvp
-dimwishlist:item=4039572196&perks=202670084,3230963543,1359896290,2450788523,2120661319
+dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
+
+
+// The Immortal - My current best roll ()
+//notes: My roll
+dimwishlist:item=4039572196&perks=202670084,3230963543,1359896290,2450788523
