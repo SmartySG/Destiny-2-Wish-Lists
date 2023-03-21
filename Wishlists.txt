@@ -1,7 +1,7 @@
 title:Test
 
-// Truthteller - [YeezyGT's S16] (god-pve)
-//notes: [YeezyGT's S16] [MW: Velocity/Handling] "Truthteller remains a staple pick, with access to Blinding/Spike, Auto-Loading Holster, Disruption Break/Quickdraw/Demolitionist. Invest in Velocity where possible, or Handling if you intend to use it as a "panic button" with Blinding grenades." tags:god-pve
+// The Immortal - 1st Choice (god-pvp)
+//notes: [Smarty] [MW: Range] 1st Choice for PvP tags:god-pve
 dimwishlist:item=4039572196&perks=202670084,1885400500,2846385770,365154968
 dimwishlist:item=4039572196&perks=202670084,1885400500,2846385770,1015611457
 dimwishlist:item=4039572196&perks=202670084,1885400500,2846385770,2450788523
@@ -17,7 +17,7 @@ dimwishlist:item=4039572196&perks=202670084,1885400500,1428297954,1890422124
 
 
 // The Immortal - Backup (pvp)
-//notes: Backup okayish PvP roll. MW: Range. tags:pvp
+//notes: [Smarty] [MW: Range] Backup okayish PvP roll. tags:pvp
 dimwishlist:item=4039572196&perks=3250034553,1968497646,2846385770,365154968
 dimwishlist:item=4039572196&perks=3250034553,1968497646,2846385770,1015611457
 dimwishlist:item=4039572196&perks=3250034553,1968497646,2846385770,2450788523
